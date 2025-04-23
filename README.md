@@ -1,17 +1,6 @@
 # Bienvenidos al Git-Hub de Alejandro
 
-## 💻: Sobre mi:
-- Ingeniero de telecomunicaciones 
-- Estudiante del Master de Big Data y Cloud en EDEM
+##  Sobre mi:
+- Ingenieria de tecnologías y servicios de telecomunicación
+- Master en Big Data y Cloud en EDEM
   
-
-
-## ⬆ Que estoy haciendo
-- 🔨 Me estoy preparando para...
-```yaml
-Aprobar el master de Big Data y Cloud en EDEM
-```
-
-- 🎯 En un futuro proximo espero conseguir:
-  - Aprender a programar en python
-  - Y mucho mas
